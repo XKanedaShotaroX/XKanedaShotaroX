@@ -25,5 +25,8 @@ Feel free to check out my Art Gallery in Deviantart.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XKanedaShotaroX&theme=transparent&bg_color=000&border_color=FFF&show_icons=true&icon_color=FFF&title_color=FFF&text_color=FFF&hide_title=true)
 
-## <center>🎃My Contributions</center>
+## <center>🎃My Repositories</center>
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=XKanedaShotaroX&repo=Jornada-DEV&bg_color=000&title_color=FFF&text_color=FFF)](https://github.com/XKanedaShotaroX/Jornada-DEV)
+
+## <center>📚Contributions</center>
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=XKanedaShotaroX&repo=dio-lab-open-source&bg_color=000&title_color=FFF&text_color=FFF)](https://github.com/XKanedaShotaroX/dio-lab-open-source)
