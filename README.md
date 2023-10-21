@@ -17,7 +17,7 @@ Feel free to check out my Art Gallery in Deviantart.
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:luis.professionaldev@gmail.com)
 
 ## <center>📖Skills</center>
-[![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=FFF)](https://www.mysql.com/downloads/)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=FFF)
 ![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=FFF)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=Git&logoColor=FFF)
 
