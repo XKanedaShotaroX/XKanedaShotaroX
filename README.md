@@ -12,7 +12,6 @@ Feel free to check out my Art Gallery in Deviantart.
 
 ## <center> Social (Connect with me 😆)</center>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/luis-guilherme-093636257/)
-[![Deviantart](https://img.shields.io/badge/deviantart-000.svg?&style=for-the-badge&logo=deviantart&logoColor=FFF)](https://www.deviantart.com/lun4ticlouis)
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=FFF)](https://https://discord.com/channels/@kaneda_shotaro/)
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:luis.professionaldev@gmail.com)
 
